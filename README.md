@@ -6,7 +6,7 @@
 - Л. Родичева
 - Е. Сенаторова 
 
-[image1]: //https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiE65_1keLlAhVqo4sKHeKbCicQjRx6BAgBEAQ&url=https%3A%2F%2Fkulturologia.ru%2Fblogs%2F231217%2F37169%2F&psig=AOvVaw28ukpbuazrDnAH-wtxg2z2&ust=1573561062901265/250x100
+![alt text](https://static.kulturologia.ru/files/u20709/elena-schwartz-01.jpg "Shvarts")
                                                                         
 ## Идея нашего проекта:
 * Создать сайт, на котором опубликованы размеченные тексты Елены Шварц со ссылками к:
