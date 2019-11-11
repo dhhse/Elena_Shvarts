@@ -4,8 +4,10 @@
 - А. Шеля
 - Д. Скоринкин
 - Л. Родичева
-- Е. Сенаторова
+- Е. Сенаторова 
 
+[image1]: //https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiE65_1keLlAhVqo4sKHeKbCicQjRx6BAgBEAQ&url=https%3A%2F%2Fkulturologia.ru%2Fblogs%2F231217%2F37169%2F&psig=AOvVaw28ukpbuazrDnAH-wtxg2z2&ust=1573561062901265/250x100
+                                                                        
 ## Идея нашего проекта:
 * Создать сайт, на котором опубликованы размеченные тексты Елены Шварц со ссылками к:
     1. _ее личному архиву_
