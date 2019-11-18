@@ -1,3 +1,5 @@
+Презентация: https://docs.google.com/presentation/d/1bhVZywCAYuUiPeQYqEf1Wpfc4QBXnX172si1EmbE0to/edit#slide=id.g7563bb982f_0_31
+
 # Цифровое издание сочинений Елены Шварц
 Участники:
 - П. Успенский
