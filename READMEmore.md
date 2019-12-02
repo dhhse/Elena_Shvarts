@@ -3,7 +3,7 @@
 * Налажен контакт с руководителями
 * Обсудили первый и пока основной шаг и то, как его реализовать
 * Сделана базовая разметка стихов с 1962 по 1965 (половина корпуса 60-х)
-* Найдено несколько сайтов, хотя и не слишком релевантных, с цифровыми архивами (напимер, архив с [оцифрованными текстами А. Ахматовой](http://akhmatova-rgali.ru/index.php?view=varchive&l=notebooks&u=13-1-116), с оцифрованными текстами [поэтов XX века](http://sologub.literature-archive.ru/ru) или же [вот этот](http://ww1lit.nsms.ox.ac.uk/ww1lit/))
+* Найдено несколько сайтов, хотя и не слишком релевантных, с цифровыми архивами (напимер, архив с [оцифрованными текстами А. Ахматовой](http://akhmatova-rgali.ru/index.php?view=varchive&l=notebooks&u=13-1-116), с оцифрованными текстами [поэтов XX века](http://sologub.literature-archive.ru/ru), [вот этот](http://ww1lit.nsms.ox.ac.uk/ww1lit/) или же [этот](https://www.poetryfoundation.org/collections/101720/world-war-i-poets))
 * Найдены TEI-шные сайты с примером разметки [стихов](https://teibyexample.org/modules/TBED04v00.htm#advanced)
     
     
