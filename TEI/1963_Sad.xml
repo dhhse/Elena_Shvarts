@@ -1,8 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI>
+<TEI><teiHeader>
+    <fileDesc>
+        <titleStmt>
+            <title>Сад</title>
+            <author>Елена Шварц, 1948-2010</author>
+        </titleStmt>
+        <sourceDesc>
+            <bibl>
+                <publisher type="quoted">Цитируется: Сочинения, том 5.
+                    <date>2013</date></publisher>
+                <publisher type="first">Впервые в: Сочинения, том 5.
+                    <date>2013</date></publisher>
+                <publisher type="additional"/>
+                <date type="written" when="1963">1963</date>
+            </bibl>
+        </sourceDesc>
+    </fileDesc>
+</teiHeader>
+    <text>
     <lg type="poem">
         <head>САД</head>
-        <ab type="attribution">Е. Кумпан</ab>
+        <div type="dedication">Е. Кумпан</div>
         <lg/>
         <l n="1">Плескался за оградой сад</l>
         <l n="2"> и затопил бы город.</l>
@@ -46,5 +64,5 @@
         <l n="40"> земля рвалась из-под корней,</l>
         <l n="41"> себя стучала в улицы</l>
         <l n="42"> и в чём-то каялась и всё ж вертелась.</l>
-    </lg>
+    </lg></text>
 </TEI>

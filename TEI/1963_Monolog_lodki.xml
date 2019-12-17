@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Монолог лодки</title>
+                <author>Елена Шварц, 1948-2010</author>
+            </titleStmt>
+            <sourceDesc>
+                <bibl>
+                    <publisher type="quoted">Цитируется: Сочинения, том 5.
+                        <date>2013</date></publisher>
+                    <publisher type="first">Впервые в: Сочинения, том 5.
+                        <date>2013</date></publisher>
+                    <publisher type="additional"/>
+                    <date type="written" when="1963">1963</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
     <lg type="poem">
         <head>МОНОЛОГ ЛОДКИ</head>
         <lg/>
@@ -28,5 +47,5 @@
         <l n="23"> О Господи, избавь его от бед, от всех мечей, от всех дурных советов.</l>
         <l n="24"> Прости ему, что кормчему он бросил,</l>
         <l n="25"> Прости ему зелёные монеты.</l>
-    </lg>
+    </lg></text>
 </TEI>

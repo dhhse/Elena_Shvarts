@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Моим стихам</title>
+                <author>Елена Шварц, 1948-2010</author>
+            </titleStmt>
+            <sourceDesc>
+                <bibl>
+                    <publisher type="quoted">Цитируется: Сочинения, том 5.
+                        <date>2013</date></publisher>
+                    <publisher type="first">Впервые в: Сочинения, том 5.
+                        <date>2013</date></publisher>
+                    <publisher type="additional"/>
+                    <date type="written" when="1964">1964</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
     <lg type="poem">
         <head>МОИМ СТИХАМ</head>
         <lg type="quatrain" n="1">

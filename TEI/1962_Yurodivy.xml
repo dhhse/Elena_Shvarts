@@ -1,5 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Юродивый</title>
+                <author>Елена Шварц, 1948-2010</author>
+            </titleStmt>
+            <sourceDesc>
+                <bibl>
+                    <publisher type="quoted">Цитируется: Сочинения, том 5. С.224
+                        <date>2013</date></publisher>
+                    <publisher type="first">Впервые в: Сочинения, том 5. С.224
+                        <date>2013</date></publisher>
+                    <publisher type="additional"/>
+                    <date type="written" when="1962">1962</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
     <lg type="poem">
         <head>ЮРОДИВЫЙ</head>
         <lg/>
@@ -25,5 +44,5 @@
         <l n="20"> всегда будет лето.</l>
         <lg/>
         <name type="place">Алакадзе</name>
-    </lg>
+    </lg></text>
 </TEI>
