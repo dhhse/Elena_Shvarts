@@ -1,38 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI><teiHeader>
-    <fileDesc>
-        <titleStmt>
-            <title>Из морских стихов</title>
-            <author>Елена Шварц, 1948-2010</author>
-        </titleStmt>
-        <sourceDesc>
-            <bibl>
-                <publisher type="quoted">Цитируется: Сочинения, том 5.
-                    <date>2013</date></publisher>
-                <publisher type="first">Впервые в: Сочинения, том 5.
-                    <date>2013</date></publisher>
-                <publisher type="additional"/>
-                <date type="written" when="1965">1965</date>
-            </bibl>
-        </sourceDesc>
-    </fileDesc>
-</teiHeader>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Из морских стихов</title>
+                <author>Елена Шварц, 1948-2010</author>
+            </titleStmt>
+            <sourceDesc>
+                <bibl>
+                    <publisher type="quoted">Цитируется: Сочинения, том 5.
+                        <date>2013</date></publisher>
+                    <publisher type="first">Впервые в: Сочинения, том 5.
+                        <date>2013</date></publisher>
+                    <publisher type="additional"/>
+                    <date type="written" when="1965">1965</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
     <text>
-    <lg type="poem">
-        <head>ИЗ МОРСКИХ СТИХОВ</head>
-    <lg/>
-        <l n="1">Вот уже скоро, вот-вот —</l>
-        <l n="2"> ну хоть раз поверьте —</l>
-        <l n="3"> море скоро расцветёт,</l>
-        <l n="4"> ещё до нашей смерти.</l>
-        <l n="5"> Оно подымется цветком</l>
-        <l n="6"> на стебле из волн и пены.</l>
-        <l n="7"> И, пожалуй, будет выше</l>
-        <l n="8"> всех иных земных растений.</l>
-        <l n="9"> Как просто всё — десяток лепестков,</l>
-        <l n="10"> за облаком бормочет гром,</l>
-        <l n="11"> и пахнет кровью, и сияют льды.</l>
-        <l n="12"> О, научись сплетать слова слепым безумным языком,</l>
-        <l n="13"> как сам Господь: из соли и воды.</l>
-    </lg></text>
+        <lg type="poem">
+            <head>ИЗ МОРСКИХ СТИХОВ</head>
+            <lg/>
+            <l n="1">Вот уже скоро, вот-вот —</l>
+            <l n="2"> ну хоть раз поверьте —</l>
+            <l n="3"> море скоро расцветёт,</l>
+            <l n="4"> ещё до нашей смерти.</l>
+            <l n="5"> Оно подымется цветком</l>
+            <l n="6"> на стебле из волн и пены.</l>
+            <l n="7"> И, пожалуй, будет выше</l>
+            <l n="8"> всех иных земных растений.</l>
+            <l n="9"> Как просто всё — десяток лепестков,</l>
+            <l n="10"> за облаком бормочет гром,</l>
+            <l n="11"> и пахнет кровью, и сияют льды.</l>
+            <l n="12"> О, научись сплетать слова слепым безумным языком,</l>
+            <l n="13"> как сам Господь: из соли и воды.</l>
+        </lg>
+    </text>
 </TEI>
