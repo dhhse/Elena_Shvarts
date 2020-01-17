@@ -6,8 +6,16 @@
                 <title>СТАРОСТЬ КНЯГИНИ ДАШКОВОЙ</title>
                 <author>Елена Шварц </author>
             </titleStmt>
+            <respStmt>
+                <resp>Редакторы:</resp>
+                <name>П. Успенский</name> и <name>А. Шеля</name>
+            </respStmt>
+            <respStmt>
+                <resp>Издатели:</resp>
+                <name>Л. Родичева</name> и <name>Е. Сенаторова</name>
+            </respStmt>
             <sourceDesc>
-                <bibl>
+            <bibl>
                     <publisher type="first">Впервые опубликовано: Tartu Riiklik Ülikool (Tartu).
                         Русская страница. <date>25 мая 1973</date></publisher>
                     <publisher type="ab">Вестник новой литературы. <date>1990</date>
