@@ -16,13 +16,8 @@
             </respStmt>
             <sourceDesc>
             <bibl>
-                    <publisher type="first">Впервые опубликовано: Tartu Riiklik Ülikool (Tartu).
-                        Русская страница. <date>25 мая 1973</date></publisher>
-                    <publisher type="ab">Вестник новой литературы. <date>1990</date>
-                    </publisher>
-                    <publisher type="ab"> Стихотворения и поэмы. <date>1999</date>
-                    </publisher>
-                    <publisher type="ab"> Сочинения, т.1 <date>2013</date></publisher>
+                <publisher>Сочинения, том 1. C.44-45 
+                    <date type="publishing">2013</date></publisher>
                     <date type="written" when="1967"> </date>
                 </bibl>
             </sourceDesc>

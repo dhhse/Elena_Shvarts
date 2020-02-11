@@ -16,8 +16,8 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher type="first">Впервые опубликовано: Сочинения,
-                        т.5<date>2013</date></publisher>
+                    <publisher>Сочинения, том 5. C.260 
+                        <date type="publishing">2013</date></publisher>
                     <date type="written" when="Март 1967"/>
                 </bibl>
             </sourceDesc>
@@ -56,7 +56,7 @@
                 <l n="19"> Из меня ведь тоже можно</l>
                 <l n="20"> Суп какой-нибудь сварить.</l>
             </lg>
-            <ab type="month">Март</ab>
+            <date>Март</date>
         </lg>
     </text>
 </TEI>

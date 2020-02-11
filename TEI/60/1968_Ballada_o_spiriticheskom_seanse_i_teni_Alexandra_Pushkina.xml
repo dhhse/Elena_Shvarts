@@ -16,11 +16,8 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher type="first">Впервые опубликовано:Стихотворения и поэмы<date>
-                            1999</date>
-                    </publisher>
-                    <publisher type="ab"> Сочинения, т.5<date>2013</date>
-                    </publisher>
+                    <publisher>Сочинения, том 1. C.34-35
+                        <date type="publishing">2013</date></publisher>
                     <date type="written" when="1968"> </date>
                 </bibl>
             </sourceDesc>
