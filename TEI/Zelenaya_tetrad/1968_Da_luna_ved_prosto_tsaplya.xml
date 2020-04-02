@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>***</title>
+                <author>Елена Шварц, 1948-2010</author>
+            </titleStmt>
+            <respStmt>
+                <resp>Редакторы:</resp>
+                <name>П. Успенский</name> и <name>А. Шеля</name>
+            </respStmt>
+            <respStmt>
+                <resp>Издатели:</resp>
+                <name>Л. Родичева</name>,<name>Е. Сенаторова</name>,<name>Д. Скоринкин</name>
+            </respStmt>
+            <sourceDesc>
+                <bibl>
+                    <!-- здесь какая-то библиография -->
+                    <date type="written" when="1968">8 января 1968</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <lg type="poem">
+            <head>***</head>
+            <lg type="stanza">
+                <l n="1">Да, луна ведь просто цапля,</l>
+                <l n="2"> Просто цапля на болоте,</l>
+                <l n="3"> Керосиновая лампа</l>
+                <l n="4"> На осеннем переплёте.</l>
+                <l n="5"> Переломаны в коленях,</l>
+                <l n="6"> Ходят лунные лучи.</l>
+                <l n="7"> Так темно внутри полена,</l>
+                <l n="8"> Так темно внутри свечи.</l>
+                <l n="9"> Так и в сердцевине века, </l>
+                <l n="10"> Видно, нам не повезло,</l>
+                <l n="11"> Держит свой костыль калека,</l>
+                <l n="12"> Как тяжёлое весло.</l>
+            </lg>
+            <!-- ПОСМОТРЕТЬ ТАКОЙ ТИП ДАТЫ -->
+            <date>8 января 1968</date>
+        </lg>
+    </text>
+</TEI>

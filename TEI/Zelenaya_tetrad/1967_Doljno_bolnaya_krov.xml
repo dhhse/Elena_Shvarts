@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>***</title>
+                <author>Елена Шварц, 1948-2010</author>
+            </titleStmt>
+            <respStmt>
+                <resp>Редакторы:</resp>
+                <name>П. Успенский</name> и <name>А. Шеля</name>
+            </respStmt>
+            <respStmt>
+                <resp>Издатели:</resp>
+                <name>Л. Родичева</name>,<name>Е. Сенаторова</name>,<name>Д. Скоринкин</name>
+            </respStmt>
+            <sourceDesc>
+                <bibl>
+                    <!-- здесь какая-то библиография -->
+                    <date type="written" when="1967">1967</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <lg type="poem">
+            <head>***</head>
+            <lg type="stanza">
+                <l n="1">Должно, больная кровь</l>
+                <l n="2"> И слабое сложенье</l>
+                <l n="3"> Виной, что непонятна мне</l>
+                <l n="4"> Таблица умноженья.</l>
+                <l n="5"> Хоть вижу скелет опрятный</l>
+                <l n="6"> Машины и каждый сустав,</l>
+                <l n="7"> Движенья её непонятней</l>
+                <l n="8"> Движенья тёмных трав.</l>
+            </lg>
+            <date>1967</date>
+        </lg>
+    </text>
+</TEI>
