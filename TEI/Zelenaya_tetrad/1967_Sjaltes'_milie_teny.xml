@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>***</title>
+                <author>Елена Шварц, 1948-2010</author>
+            </titleStmt>
+            <respStmt>
+                <resp>Редакторы:</resp>
+                <name>П. Успенский</name> и <name>А. Шеля</name>
+            </respStmt>
+            <respStmt>
+                <resp>Издатели:</resp>
+                <name>Л. Родичева</name>,<name>Е. Сенаторова</name>,<name>Д. Скоринкин</name>
+            </respStmt>
+            <sourceDesc>
+                <bibl>
+                    <!-- здесь какая-то библиография -->
+                    <date type="written" when="1967">1967</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <lg type="poem">
+            <head>***</head>
+            <epigraph>
+                <q>
+                    <lg type="couplet">
+                        <l>Глюк теперь – сверчок запечный, </l>
+                        <l>Баба старая, - предвечный.</l>
+                    </lg>
+                </q>
+            </epigraph>
+            <lg type="stanza">
+                <l n="1">«Сжальтесь, милые тени,</l>
+                <l n="2"> Отпустите мою Эвридику!» — </l>
+                <l n="3"> Его слушают дикие звери,</l>
+                <l n="4"> По щекам текут сладкие слёзы.</l>
+                <l n="5"> В Аид опустелый и пыльный</l>
+                <l n="6"> Теней не привозят ныне, — </l>
+                <l n="7"> Собачий вальс играет старый цербер</l>
+                <l n="8"> На глюковом забытом клавесине.</l>
+            </lg>
+            <date>1967</date>
+        </lg>
+    </text>
+</TEI>
