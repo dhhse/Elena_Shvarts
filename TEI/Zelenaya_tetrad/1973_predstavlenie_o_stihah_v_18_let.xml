@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Представление о стихах в 18 лет</title>
+                <author>Елена Шварц</author>
+            </titleStmt>
+            <respStmt>
+                <resp>Редакторы:</resp>
+                <name>П. Успенский</name> и <name>А. Шеля</name>
+            </respStmt>
+            <respStmt>
+                <resp>Издатели:</resp>
+                <name>Л. Родичева</name>, <name>Е. Сенаторова</name> и <name>Д. Скоринкин</name>
+            </respStmt>
+            <sourceDesc>
+                <bibl>
+                    <publisher>
+                        <!--_ _ _-->
+                        <date type="publishing">1983</date>
+                    </publisher>
+                    <date type="written" notAfter="1973"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <lg type="poem">
+            <head>Представление о стихах в 18 лет</head>
+            <l n="1">Кто опишет тетю Любу,</l>
+            <l n="2">Её быстрый говорок,</l>
+            <l n="3">Её вытертую шубу,</l>
+            <l n="4">Её высохший висок?</l>
+            <l n="5">Неизбывно, невозможно –</l>
+            <l n="6">Обстоятельность претит –</l>
+            <l n="7">В них лишь музыка неложно –</l>
+            <l n="8">Лютня с волком – говорит.</l>
+            <l n="9">Что стихи есть – мирозданье</l>
+            <l n="10">Или камешек в кольце?</l>
+            <l n="11">Или это бормотанье</l>
+            <l n="12">С озарением в конце?</l>
+            <l n="13">Я б хотела, чтоб сияли,</l>
+            <l n="14">Лёгкой плотью снащены,</l>
+            <l n="15">Чтобы ангелами стали,</l>
+            <l n="16">Если ангелы больны.</l>
+
+            <date>не позднее февраля 1973</date>
+        </lg>
+    </text>
+</TEI>
