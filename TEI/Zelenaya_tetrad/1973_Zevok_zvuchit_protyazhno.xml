@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>***</title>
+                <author>Елена Шварц</author>
+            </titleStmt>
+            <respStmt>
+                <resp>Редакторы:</resp>
+                <name>П. Успенский</name> и <name>А. Шеля</name>
+            </respStmt>
+            <respStmt>
+                <resp>Издатели:</resp>
+                <name>Л. Родичева</name>, <name>Е. Сенаторова</name> и <name>Д. Скоринкин</name>
+            </respStmt>
+            <sourceDesc>
+                <bibl> 
+                    <publisher><!--_ _ _--> <date type="publishing"
+                        >1983</date>
+                    </publisher>
+                    <date type="written" notAfter= "1973"/>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <lg type="poem">
+            <head>***</head>
+            <l n="1">Зевок звучит протяжно,</l>
+            <l n="1">Как дальнее «ура!»,</l>
+            <l n="1">Светло сегодня ночью,</l>
+            <l n="1">Темно от туч с утра.</l>
+            <l n="1">От призрачных, похудевших,</l>
+            <l n="1">Отстрадавших, оттерпевших – </l>
+            <l n="1">Это было далеко,</l>
+            <l n="1">Как мы пили молоко.</l>
+            <l n="1">До чего же не удались – </l>
+            <l n="1">Ростом, голосом, злобным взором  – </l>
+            <l n="1">Кто у самой войны родились,</l>
+            <l n="1">Как грибы под высоким забором.</l>
+            <date>не позднее февраля 1973</date>
+        </lg>
+    </text>
+</TEI>
+
