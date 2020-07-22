@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>***</title>
+                <author>Елена Шварц, 1948-2010</author>
+            </titleStmt>
+            <respStmt>
+                <resp>Редакторы:</resp>
+                <name>П. Успенский</name> и <name>А. Шеля</name>
+            </respStmt>
+            <respStmt>
+                <resp>Издатели:</resp>
+                <name>Л. Родичева</name>, <name>Е. Сенаторова</name>,<name>Д. Скоринкин</name>,
+                    <name>А. Панасюк</name>
+            </respStmt>
+            <sourceDesc>
+                <bibl>
+                    <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 го- дов /
+                        Предисл. О. Виноградовой; сост. и подгот. текста П. Успенский, А. Шеля. —
+                        СПб.: Порядок слов, 2018. С.57. <date type="publishing">2018</date>
+                    </publisher>
+                    <date type="written" notAfter="1973-02">не позднее февраля 1973</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <lg type="poem">
+            <head>***</head>
+            <lg type="stanza">
+                <l n="1">О ты – уродство чуть расцветшее!</l>
+                <l n="2">Младенец-идиот, ещё огромный рот</l>
+                <l n="3">Твой свеж, ещё ты на заре, в росе,</l>
+                <l n="4">Ещё лицо твое прекрасно,</l>
+                <l n="5">Как всё, пока оно цветет.</l>
+                <l n="6">Ты вырастешь – цветение, как дым,</l>
+                <l n="7">Но неизвестно, выше чьё призванье</l>
+                <l n="8">И что достойнее – быть певчим иль святым,</l>
+                <l n="9">Или химерою в соборе мирозданья.</l>
+            </lg>
+            <date>не позднее февраля 1973</date>
+        </lg>
+    </text>
+</TEI>
