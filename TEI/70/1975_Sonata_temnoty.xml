@@ -16,7 +16,7 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Сочинения, том 1. C.50-52 <date type="publishing"
+                    <publisher>Сочинения, том 1. C.50-52<date type="publishing"
                         >2013</date></publisher>
                     <date type="written" when="1975"/>
                 </bibl>
@@ -26,8 +26,9 @@
     <text>
         <lg type="poem">
             <head>СОНАТА ТЕМНОТЫ</head>
-
-            <lg type="paragraph" n="1">I <lg type="quatrain" n="1">
+            <lg type="paragraph" n="1">
+                <head>I</head>
+                <lg type="quatrain" n="1">
                     <l n="1">Друг друга заражая тьмой</l>
                     <l n="2">И злобой, всех мы опоили,</l>
                     <l n="3">Как вирусы, мы в мир иной</l>
@@ -64,7 +65,9 @@
                     <l n="32">А пол-лица душ наших копоть.</l>
                 </lg>
             </lg>
-            <lg tipe="paragraph" n="2">II <lg type="stanza" n="3">
+            <lg type="paragraph" n="2">
+                <head>II</head>
+                <lg type="stanza" n="3">
                     <l n="33">По ночам — когда бесы с сетями идут на ловитвы</l>
                     <l n="34">И сияют щитом и дробятся слезами молитвы —</l>
                     <l n="35">Так бывает, что малый бесенок,</l>
@@ -93,8 +96,9 @@
                     <l n="58">Как послал Ты блуднице Египет.</l>
                 </lg>
             </lg>
-
-            <lg type="paragraph" n="3">III <lg type="stanza" n="4">
+            <lg type="paragraph" n="3">
+                <head>III</head>
+                <lg type="stanza" n="4">
                     <l n="59">Когда мы закрываем веки</l>
                     <l n="60">Трепещущих и смертных глаз —</l>
                     <l n="61">Они, как переборки на отсеки,</l>
@@ -126,12 +130,10 @@
                     <l n="85">Чем темный свет внутри.</l>
                 </lg>
             </lg>
-
             <date>1975</date>
         </lg>
     </text>
 </TEI>
-
 <!--Стихи 90. С.24-26; без датировки
 Стихотворения и поэмы. С.44-46; 1975
 Сочинения, том 1. С. 50-52; дат.: 1975-->
