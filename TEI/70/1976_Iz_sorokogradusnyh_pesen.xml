@@ -16,9 +16,9 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Сочинения, том 1. C.55 <date type="publishing"
+                    <publisher>Сочинения, том 1. C.55<date type="publishing"
                         >2013</date></publisher>
-                    <date type="written" when="1976"/>
+                    <date type="written" when="1976">
                 </bibl>
             </sourceDesc>
         </fileDesc>
