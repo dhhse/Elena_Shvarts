@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Некоторые виды звезд</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -25,7 +25,7 @@
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>НЕКОТОРЫЕ ВИДЫ ЗВЕЗД</head>
+            <head>Некоторые виды звезд</head>
             <sub>(малая фуга)</sub>
             <epigraph>
                 <q>
@@ -35,7 +35,6 @@
                     <l n='4'> В глухой эфир.</l>
                 </q>
             </epigraph>
-            <lg/>
             <lg>
                 <l n="1">Он один — хотя их много —</l>
                 <l n="2"> Одинаков навсегда </l>
@@ -91,7 +90,6 @@
                 <l n="52"> И он дрожит, и синим светом,</l>
                 <l n="53"> Холодным светом осиян.</l>
             </lg>
-            <date>1972</date>
         </lg>
     </text>
 </TEI>
