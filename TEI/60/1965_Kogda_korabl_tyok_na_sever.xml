@@ -19,7 +19,7 @@
                     <publisher type="quoted">Цитируется: Сочинения, том 5.
                         <date>2013</date></publisher>
                     <publisher type="first">Впервые в: Сочинения, том 5.
-                        <date>2013</date></publisher>
+                        <date type="publishing">2013</date></publisher>
                     <publisher type="additional"/>
                     <date type="written" when="1965">1965</date>
                 </bibl>
