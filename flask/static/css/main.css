@@ -1,0 +1,249 @@
+.padding30{padding-top: 30px;}
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+header
+
+{
+     margin: 100px  25px;
+}
+
+body
+
+{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: #f2f1ef ; 
+}
+.pictures
+{
+    width:200px;
+    height:200px;
+    margin-bottom:80px;
+    margin-top:70px;
+    margin-left: 50px;
+    opacity: 0.9;
+}
+.name
+
+{
+    margin: 150px 0 25px;
+	font-family: Montserrat, sans-serif;
+    font-size: 300%;
+    font-weight: 400;
+    color:#3F3031;
+    opacity: 0.7;
+}
+.authors
+{
+  font-family: Montserrat, sans-serif;  
+  color:#3F3031;
+  font-weight:400 ;
+  opacity: 0.7;
+  margin-left: 75px;
+  margin-bottom:10px ;
+  margin-top:10px;
+}
+.text
+
+{
+    padding-left:30px;
+    padding-top: 150px;
+    color: #3F3031; 
+    font-family: Montserrat, sans-serif;
+    font-size:95%;
+}
+
+.paint
+
+{     
+ height: 80%;   
+}
+
+
+.btn
+
+{
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    font-size: 150%;
+    color:#8E917E;
+    border-color:none;
+    border-style: none;
+
+}
+.search
+
+{
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    font-size: 150%;
+    color:#DABEB8;
+    margin-top: 0px;
+    margin-bottom: 10px;
+    margin-left: 8px;
+    border-style: none;
+    text-decoration: none;
+}
+
+.forn-control
+
+{
+   font-family: Montserrat, sans-serif;
+   border-color: #DABEB8;
+   color: #DABEB8;
+   font-size: 150%;
+   margin-left: 20px;
+    margin-top: 50px;
+}
+
+.main 
+
+{
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    font-size: 150%;
+    color:#DABEB8;
+    margin-top: 150px;
+    margin-bottom: 10px;
+    margin-left: 40px;
+
+}
+
+::placeholder 
+
+{
+  color:#DABEB8 ;
+  font-size: 100%;
+  
+}
+
+
+.btn:before 
+{ 
+    content:''; /* Обязательное свойство псевдоэлемента :before */
+    position: absolute; /* Позиционируем абсолютно */
+    top: 0px; /* Позиция по границам блока */
+    left: 0px;
+    width: 90%; /* Ширина по границам кнопки */
+    height: 0px; /* Высота 0, поэтому невиден */
+    background: rgba(148,144,143,0.4); /* Фоновый цвет наплывания */
+    opacity: 0.2;
+    color:#DABEB8;
+     border-style: none;
+    text-decoration: none;
+    border-radius: 5px; /* Радиус уголков */
+    transition: all 0.5s ease-out; /* Анимация. Движение. Трансформируются все свойства (all) в течении 0.5 секунды, быстро начинается и к концу замедляется (ease-out) */
+
+}
+
+.btn:hover:before
+ { 
+    height: 50px; 
+    border-style: none;
+    text-decoration: none;
+   
+   }
+
+
+.btn:focus 
+
+{
+outline: none;
+box-shadow: none;
+}
+
+.dropdown-item
+
+{
+    font-family: Montserrat, sans-serif;
+    color:#8E917E;
+    border-style: none;
+    outline: none;
+    box-shadow: none;
+    position: relative; 
+    cursor: pointer;
+    user-select: none;
+    border: none;
+    outline: none;
+    transition: background 9999999s;
+    
+    
+   -webkit-tap-highlight-color:  transparent;
+}
+
+.dropdown-item:active 
+{
+
+  background: #f2f1ef;
+  color:#3F3031;
+  transition: background 0s;
+  outline: none !important;
+}
+
+
+.poems{
+
+    text-decoration: none !important;
+    font-family: "Montserrat", sans-serif; 
+    font-size: 110%; 
+    color:#3F3031; 
+    font-weight: 300;
+    opacity: 0.7;
+    margin-top: 150px;
+    margin-bottom:10px;
+    margin-right: 200px;
+    margin-left: 0px;
+}
+
+.for_search {
+
+    text-decoration: none !important;
+    font-family: "Montserrat", sans-serif; 
+    font-size: 110%; 
+    color: #3F3031 !important;
+    list-style-type: none;
+    margin-top: 20px;
+    margin-bottom:10px;
+    margin-right: 200px;
+    margin-left: 0px;
+
+}
+
+
+.dropdown-menu
+
+{
+    background-color: #f2f1ef;
+    border-color: #f2f1ef;
+    text-decoration: none;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+     outline: none;
+    box-shadow: none;
+    -webkit-tap-highlight-color:  transparent;
+    cursor: pointer;}
+
+.mainparagraphs
+
+{
+    font-family: Montserrat, sans-serif;
+    color:#895961;
+    font-size: 110%;
+    font-weight: 300;
+    margin-top: 50px;
+    margin-bottom:10px;
+    margin-right: 200px;
+    margin-left: 25px;
+    text-align:justify;
+    }
+
+footer
+
+{
+    margin-top: 500px;
+    margin-bottom: 100px;
+    font-family:Montserrat, sans-serif;
+    color: #DABEB8;
+    font-size: 80%;
+    text-align: center;
+}
