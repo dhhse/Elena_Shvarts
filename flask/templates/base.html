@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    
+    <link href="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}">
+    <link href="index.html">
+<!-- <title>Главная страница</title> -->
+
+  </head>
+
+  <body>
+    <header>
+       <h1 class="name">Eлена Шварц</h1>
+    </header>
+
+    <div class='container-fluid'>
+      <div class ="row">
+        
+        <div class="col">
+           <button class="btn dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              О проекте
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a class="dropdown-item changeable" href="/about/#shvarts">Шварц</a>
+              <a class="dropdown-item changeable" href="/about/#digital_edition">Цифровое издание</a>
+              <a class="dropdown-item changeable"  href="/about/#team">Команда</a>
+            </div>
+          
+        </div>
+
+        <div class="col">
+          <div class="dropdown">
+            <button class="btn dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Произведения
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a class="dropdown-item changeable" href="/list_of_texts/">60-е</a>
+              <a class="dropdown-item changeable" href="#">70-е</a>
+              <a class="dropdown-item changeable" href="#">Стихи из "Зеленой тетради"</a>
+            </div>
+          </div>
+        </div>
+
+            <div class="col">
+           <button class="btn dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Материалы
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a class="dropdown-item changeable" href="/other/#photos">Фотографии</a>
+              <a class="dropdown-item changeable" href="/other/#drafts">Рукописи</a>
+              <a class="dropdown-item changeable" href="/other/#articles">Статьи</a>
+            </div>
+          </div>
+
+        <div class="col">
+          <a class="btn" href ="/search/">Поиск</a>
+        </div>
+      </div>
+    </div>
+  
+
+  {%block content%}
+  
+
+  {% block more_css %}
+  {% endblock %}
+
+  {%endblock%}
+
+<footer>НИУ ВШЭ</footer>
+
+
+  <script src="../static/js/jquery.min.js"></script>
+  <script src="../static/js/bootstrap.bundle.min.js"></script>
+  <script src="../static/js/main.js"></script>
+</body>
+</html>
