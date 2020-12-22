@@ -1,15 +1,29 @@
 {% extends "base.html" %}
 
 {% block content %}
-<title>Поиск</title>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script type=text/javascript>
+		$(function() {
+		$('a#process_input').bind('click', function() {
+			$.getJSON('/background_process', {
+				search: $('input[name="search"]').val(),
+			}, function(data) {
+          $("ul").empty();
+          $(data.result).each(function (index, value) {
+          	$("ul").append('<li class="for_search"><a class="for_search" href="texts_60_<int:ID>/">' + value + '</a></li>');
+          });
+        });
+        return false;
+        });
+      });</script>
+
+
 <form style='padding-top: 100px;'>
- <label class='sr-only' for='inlineFormInputName2'>Текст</label>
- <input type='text' name='search' class='forn-control mb-2 mr-sm-2' id='inlineFormInputGroupUsername5' placeholder ='Поиск'>
- <button class='btn search'type='submit'>Искать</button>
+	<label class='sr-only' for='inlineFormInputName2'>Текст</label>
+	<input type='text' name='search' class='forn-control mb-2 mr-sm-2' id='inlineFormInputGroupUsername5' placeholder='Поиск'>
+	<a href='#' id='process_input'><button type='submit' class='btn search'>Искать</button></a>
 </form>
 <form style='padding-top: 100px;'>
-	
-	
-	
+<ul id=result></ul>
 </form>
 {% endblock %}

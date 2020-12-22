@@ -7,7 +7,11 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
-    
+    <link rel="img" href="{{ url_for('static', filename= 'img/shw.png')}}">
+    <link rel="img" href="{{ url_for('static', filename= 'img/Shelya.png')}}">
+    <link rel="img" href="{{ url_for('static', filename= 'img/Uspenskij.png')}}">
+    <link rel="img" href="{{ url_for('static', filename= 'img/Rodicheva.png')}}">
+    <link rel="img" href="{{ url_for('static', filename= 'img/Senatorova.png')}}">
     <link href="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}">
     <link href="index.html">
 <!-- <title>Главная страница</title> -->
@@ -16,7 +20,19 @@
 
   <body>
     <header>
+      <div class="container-fluid">
+       <div class ="row">
+        
+        <div class="col">
+       
        <h1 class="name">Eлена Шварц</h1>
+      </div>
+        
+        <div class="col">
+      <img class="paint" src="../static/img/shw.png" alt="ES">
+    </div>
+  </div>
+</div>
     </header>
 
     <div class='container-fluid'>
@@ -27,9 +43,9 @@
               О проекте
             </button>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <a class="dropdown-item changeable" href="/about/#shvarts">Шварц</a>
-              <a class="dropdown-item changeable" href="/about/#digital_edition">Цифровое издание</a>
-              <a class="dropdown-item changeable"  href="/about/#team">Команда</a>
+              <a class="dropdown-item" href="/about/#shvarts">Шварц</a>
+              <a class="dropdown-item" href="/about/#digital_edition">Цифровое издание</a>
+              <a class="dropdown-item"  href="/about/#team">Команда</a>
             </div>
           
         </div>
@@ -40,9 +56,9 @@
               Произведения
             </button>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <a class="dropdown-item changeable" href="/list_of_texts/">60-е</a>
-              <a class="dropdown-item changeable" href="#">70-е</a>
-              <a class="dropdown-item changeable" href="#">Стихи из "Зеленой тетради"</a>
+              <a class="dropdown-item" href="/list_of_texts/">60-е</a>
+              <a class="dropdown-item" href="#">70-е</a>
+              <a class="dropdown-item" href="#">Стихи из "Зеленой тетради"</a>
             </div>
           </div>
         </div>
@@ -52,25 +68,29 @@
               Материалы
             </button>
             <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-              <a class="dropdown-item changeable" href="/other/#photos">Фотографии</a>
-              <a class="dropdown-item changeable" href="/other/#drafts">Рукописи</a>
-              <a class="dropdown-item changeable" href="/other/#articles">Статьи</a>
+              <a class="dropdown-item smallb" href="/other/">Фотографии</a>
+              <a class="dropdown-item smallb" href="/other/">Рукописи</a>
+              <a class="dropdown-item smallb" href="/other/">Статьи</a>
             </div>
           </div>
-
-        <div class="col">
-          <a class="btn" href ="/search/">Поиск</a>
+            <div class="col">
+          <div class="dropdown">
+            <button class="btn dropdown-toggle" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+              Поиск
+            </button>
+            <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+              <a class="dropdown-item" href="/search/">По текстам</a>
+              <a class="dropdown-item" href="#">По названиям</a>
+            </div>
+          </div>
         </div>
+        
       </div>
     </div>
   
 
   {%block content%}
   
-
-  {% block more_css %}
-  {% endblock %}
-
   {%endblock%}
 
 <footer>НИУ ВШЭ</footer>
