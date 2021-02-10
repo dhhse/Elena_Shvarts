@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>СТАРОСТЬ КНЯГИНИ ДАШКОВОЙ</title>
+                <title>Старость княгини Дашковой</title>
                 <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
@@ -25,7 +25,7 @@
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>СТАРОСТЬ КНИГИНИ ДАШКОВОЙ</head>
+            <head>Старость княгини Дашковой</head>
             <lg type="quatrain" n="1">
                 <l n="1">Княгини Дашковой нет</l>
                 <l n="2"> В Академии на острову —</l>
