@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ПСКОВ</title>
+                <title>Псков</title>
                 <author>Елена Шварц </author>
             </titleStmt>
             <respStmt>
@@ -25,7 +25,7 @@
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>ПСКОВ </head>
+            <head>Псков</head>
 
             <l n="1">На краю города Пскова</l>
             <l n="2"> сидит башня в полушубке.</l>
