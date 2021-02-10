@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>РОНДО С ПРИМЕСЬЮ ПАТРИОТИЗМА</title>
+                <title>Рондо с примесью патриотизма</title>
                 <author>Елена Шварц </author>
             </titleStmt>
             <respStmt>
@@ -26,7 +26,7 @@
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>РОНДО С ПРИМЕСЬЮ ПАТРИОТИЗМА</head>
+            <head>Рондо с примесью патриотизма</head>
             <lg type="stanza" n="1">
                 <l n="1"> Бред бесстыдный,</l>
                 <l n="2"> Лепет сонный,</l>
