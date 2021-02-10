@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>НОВОРОЖДЕННОМУ</title>
+                <title>Новорожденному</title>
                 <author>Елена Шварц </author>
             </titleStmt>
             <respStmt>
@@ -26,7 +26,7 @@
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>НОВОРОЖДЕННОМУ</head>
+            <head>Новорожденному</head>
 
             <l n="1"> И десять месяцев лунных</l>
             <l n="2"> Во чреве Бог тебя томил,</l>
