@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>ОБ ИЗОБРЕТЕНИИ ПАРОВОЙ МАШИНЫ</title>
+                <title>Об изобретении паровой машины</title>
                 <author>Елена Шварц </author>
             </titleStmt>
             <respStmt>
@@ -25,7 +25,7 @@
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>ОБ ИЗОБРЕТЕНИИ ПАРОВОЙ МАШИНЫ </head>
+            <head>Об изобретении паровой машины</head>
 
             <l n="1">Был лекарь механизмов</l>
             <l n="2"> Механик Джемс Уатт —</l>
