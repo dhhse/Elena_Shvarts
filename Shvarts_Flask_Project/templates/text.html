@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
     <link href="{{ url_for('static', filename='img/header.jpg') }}">
     <link href="{{ url_for('static', filename='js/bootstrap.bundle.min.js') }}">
-	
+    
 
     
     <title>Текст</title>
@@ -23,9 +23,15 @@
 
 <body>
 
-	 {% for item in poem_texts %}
-     <pre class ="text">{{item.poem_text}}</pre>
-     {% endfor %}
+     {% for item in poem_texts %}
+    <pre class ="text">{{item.poem_text}}</pre> 
+    <pre class ="meta"> 
+    <u>О тексте:</u>
+    Издание: {{item.meta.edition}}
+    Год публикации: {{item.meta.date_published}}
+    Год написания: {{item.meta.date_written}}</pre>
+
+    {% endfor %}
      
 </body>
 
