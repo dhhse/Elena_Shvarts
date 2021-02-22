@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Новостройки</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -25,7 +25,7 @@
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>НОВОСТРОЙКИ</head>
+            <head>Новостройки</head>
             <epigraph>
                 <q>
                     <l n="1">Небо недозрелой дыней</l>

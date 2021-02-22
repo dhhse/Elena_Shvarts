@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Распродажа библиотеки историка</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -26,7 +26,7 @@
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>РАСПРОДАЖА БИБЛИОТЕКИ ИСТОРИКА</head>
+            <head>Распродажа библиотеки историка</head>
             <lg/>
             <lg type="quatrain" n="1">
                 <l>Вот тот нагой, что там в углу сидит, —</l>

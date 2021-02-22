@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Утро второго снега</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <author>Елена Шварц/author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -25,7 +25,7 @@
     </teiHeader>
     <text>
         <lg type='poem'>
-    <head>УТРО ВТОРОГО СНЕГА</head>
+    <head>Утро второго снега</head>
     <lg/>
     <lg type="stanza" n="1">
         <l n="1">Воронa, поднявши рвaные крылья,</l>
