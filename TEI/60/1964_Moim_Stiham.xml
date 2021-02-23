@@ -16,7 +16,7 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Сочинения, том 5. C.239
+                    <publisher>Сочинения, том 5. C.239.
                         <date type='published'>2013</date></publisher>
                     <date type="written" when="1964">1964</date>
                 </bibl>
@@ -25,7 +25,7 @@
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>Моим стихам/head>
+            <head>Моим стихам</head>
             <lg type="quatrain" n="1">
                 <l n="1">Ваша крёстная мать — Луна,</l>
                 <l n="2"> вы одни у меня на свете.</l>
