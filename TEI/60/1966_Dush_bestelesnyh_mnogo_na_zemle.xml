@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>«Душ бестелесных много на земле...»</title>
+                <title>*** («Душ бестелесных много на земле...»)</title>
                 <author>Елена Шварц </author>
             </titleStmt>
             <respStmt>
@@ -18,7 +18,7 @@
                 <bibl>
                     <publisher>Сочинения, том 5. C.248
                         <date type="publishing">2013</date></publisher>
-                    <date type="written" when="1966"/>
+                    <date type="written" when="1966">1966</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>

@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>«Когда корабль тёк на север...»</title>
+                <title>*** («Когда корабль тёк на север...»)</title>
                 <author>Елена Шварц, 1948-2010</author>
             </titleStmt>
             <respStmt>
@@ -16,11 +16,8 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher type="quoted">Цитируется: Сочинения, том 5.
-                        <date>2013</date></publisher>
-                    <publisher type="first">Впервые в: Сочинения, том 5.
+                    <publisher>Сочинения, том 5.
                         <date type="publishing">2013</date></publisher>
-                    <publisher type="additional"/>
                     <date type="written" when="1965">1965</date>
                 </bibl>
             </sourceDesc>

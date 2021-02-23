@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>«Так иногда линяет змей...»</title>
+                <title>*** («Так иногда линяет змей...»)</title>
                 <author>Елена Шварц </author>
             </titleStmt>
             <respStmt>
@@ -19,7 +19,7 @@
                 <bibl>
                     <publisher>Сочинения,том 5. С.251 <date type="publishing">2013</date>
                     </publisher>
-                    <date type="written" when="1967"> </date>
+                    <date type="written" when="1967">1967</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>

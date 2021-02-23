@@ -19,7 +19,7 @@
                 <bibl>
                     <publisher>Сочинения, том 1. C.16
                         <date type="publishing">2013</date></publisher>
-                    <date type="written" when="1968"/>
+                    <date type="written" when="1968">1968</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
