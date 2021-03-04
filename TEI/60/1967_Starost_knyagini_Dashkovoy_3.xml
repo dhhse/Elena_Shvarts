@@ -18,7 +18,7 @@
             <bibl>
                 <publisher>Tartu Riiklik Ülikool (Tartu). Русская страница. № 5. С. 1.
                     <date type="publishing">25 мая 1973</date></publisher>
-                    <date type="written">1967</date>
+                    <date type="written" when="1967">1967</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
