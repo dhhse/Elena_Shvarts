@@ -16,9 +16,9 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Сочинения, том 1 <date type="publishing">2002</date>
+                    <publisher>Сочинения, том 1. С.25 <date type="publishing">2002</date>
                     </publisher>
-                    <date type="written">1970</date>
+                    <date type="written when="1970">1970</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -26,7 +26,7 @@
     <text>
         <lg type="poem">
             <head>***</head>
-            <lg/>
+            <lg>
             <l n="1">Da bin ich Dichter ,</l>
             <l n="2"> Son' poeta anche .</l>
             <l n="3"> У человека шов проходит по гортани</l>
@@ -45,7 +45,7 @@
             <l n="16"> Я не игрушка вам,</l>
             <l n="17"> Ни вам — печенка, селезенка,</l>
             <l n="18"> Ни сердцу, ни мозгам.</l>
-            <lg/>
+            </lg>
             
         </lg>
     </text>
