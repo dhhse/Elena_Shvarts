@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Распродажа библиотеки историка</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -16,17 +16,18 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Вестник новой литературы. Л., <date type="publishing"
-                            >1990.</date> Вып. 2. С. 66-68, б/д.
+                    <publisher>Вестник новой литературы. Л.С. 66-68, <date type="publishing"
+                            >1990.</date> 
                     </publisher>
+                    <date type="written">без даты</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>РАСПРОДАЖА БИБЛИОТЕКИ ИСТОРИКА</head>
-            <lg/>
+            <head>Распродажа библиотеки историка</head>
+            
             <lg type="quatrain" n="1">
                 <l>Вот тот нагой, что там в углу сидит, —</l>
                 <l> На нем чужой башмак с алмазной пряжкой —</l>
@@ -141,8 +142,8 @@
                 <l> У входа, впрочем, душ един клубится вал,</l>
                 <l> А имена — как жребии мы тянем.</l>
             </lg>
-            <lg/>
-            <date>без датировки</date>
+       
+            
         </lg>
     </text>
 </TEI>
