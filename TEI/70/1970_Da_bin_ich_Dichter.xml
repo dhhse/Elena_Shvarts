@@ -18,7 +18,7 @@
                 <bibl>
                     <publisher>Сочинения, том 1 <date type="publishing">2002</date>
                     </publisher>
-                    <date type="written" when="1970">1970</date>
+                    <date type="written">1970</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -46,7 +46,7 @@
             <l n="17"> Ни вам — печенка, селезенка,</l>
             <l n="18"> Ни сердцу, ни мозгам.</l>
             <lg/>
-            <date>1970</date>
+            
         </lg>
     </text>
 </TEI>
