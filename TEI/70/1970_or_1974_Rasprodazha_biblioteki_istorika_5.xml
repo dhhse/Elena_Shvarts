@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Распродажа библиотеки историка</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -19,15 +19,15 @@
                     <publisher>Танцующий Давид. С.34-37; <date type="publishing"
                             >1985</date>
                     </publisher>
-                    <date type="written" when="1974">1974</date>
+                    <date type="written">1974</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>РАСПРОДАЖА БИБЛИОТЕКИ ИСТОРИКА</head>
-            <lg/>
+            <head>Распродажа библиотеки историка</head>
+           
             <lg type="quatrain" n="1">
                 <l>Вот тот нагой, что там в углу сидит, —</l>
                 <l> На нем чужой башмак с алмазной пряжкой —</l>
@@ -142,8 +142,6 @@
                 <l> У входа, впрочем, душ един клубится вал,</l>
                 <l> А имена — как жребии мы тянем.</l>
             </lg>
-            <lg/>
-            <date>1970-е</date>
         </lg>
     </text>
 </TEI>
