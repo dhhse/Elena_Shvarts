@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Моисей и куст, в котором явился бог</title>
+                <title>Моисей и куст, в котором явился Бог</title>
                 <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
@@ -19,14 +19,14 @@
                     <publisher>Стихотворения и поэмы. С.34.
                         <date type="publishing">1999</date>
                     </publisher>
-                    <date type="written">Начало 70-х</date>
+                    <date type="written" when="1970-ies">Начало 70-х</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>МОИСЕЙ И КУСТ, В КОТОРОМ ЯВИЛСЯ БОГ</head>
+            <head>Моисей и куст, в котором явился Бог</head>
             <lg>
             <l n="1">О Боже — Ты внутри живого мира</l>
             <l n="2"> Как будто в собственном гуляешь животе.</l>
