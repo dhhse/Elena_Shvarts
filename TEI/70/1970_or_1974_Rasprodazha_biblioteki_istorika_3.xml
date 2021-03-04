@@ -19,7 +19,7 @@
                     <publisher>Стихотворения и поэмы. С.15-17; <date type="publishing"
                             >1999</date>
                     </publisher>
-                    <date type="written" when="1970-ies">1970-е</date>
+                    <date type="written">1970-е</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -27,7 +27,7 @@
     <text>
         <lg type="poem">
             <head>РАСПРОДАЖА БИБЛИОТЕКИ ИСТОРИКА</head>
-            <lg/>
+            
             <lg type="quatrain" n="1">
                 <l>Вот тот нагой, что там в углу сидит, —</l>
                 <l> На нем чужой башмак с алмазной пряжкой —</l>
@@ -142,8 +142,6 @@
                 <l> У входа, впрочем, душ един клубится вал,</l>
                 <l> А имена — как жребии мы тянем.</l>
             </lg>
-            <lg/>
-            <date>1970-ые</date>
-        </lg>
+         </lg>
     </text>
 </TEI>
