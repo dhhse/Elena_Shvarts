@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Распродажа библиотеки историка</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -16,10 +16,10 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Стороны света. С.10-12; <date type="publishing"
+                    <publisher>Стороны света. С.10-12. <date type="publishing"
                             >1989</date>
                     </publisher>
-                    <date type="written" when="1974">1974</date>
+                    <date type="written">1974</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -143,7 +143,7 @@
                 <l> А имена — как жребии мы тянем.</l>
             </lg>
             <lg/>
-            <date>1974</date>
+           
         </lg>
     </text>
 </TEI>
