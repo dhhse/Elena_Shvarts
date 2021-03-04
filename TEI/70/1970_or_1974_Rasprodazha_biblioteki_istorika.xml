@@ -16,10 +16,10 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Третья волна. 14. Париж-Нью-Йорк. С.3-5. <date type="publishing"
+                    <publisher>Третья волна, 14. Париж-Нью-Йорк. С.3-5. <date type="publishing"
                             >1983</date>
                     </publisher>
-                    <date type="written" when="1974">1974</date>
+                    <date type="written">1970-е</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -143,7 +143,6 @@
                 <l> А имена — как жребии мы тянем.</l>
             </lg>
             <lg/>
-            <date>70-ые</date>
         </lg>
     </text>
 </TEI>
