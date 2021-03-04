@@ -16,8 +16,9 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Стихотворения и поэмы. С.20-22, 1969</publisher>
-                    <date type="written" when="1970">1970</date>
+                    <publisher>Стихотворения и поэмы.С.20-22.
+                     <date type="publishing">1999</date></publisher>
+                    <date type="written">1970</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -108,7 +109,6 @@
                 <l n="66"> Раз усохшие чернила</l>
                 <l n="67"> Развела моею кровью.</l>
             </lg>
-            <date>1970</date>
         </lg>
     </text>
 </TEI>
