@@ -19,7 +19,7 @@
                     <publisher>Эхо. Париж. №2. С. 89-90. 
                         <date type="publishing">1978</date>
                     </publisher>
-                    <date type="written" when="1970-ies">1970-е</date>
+                    <date type="written">Начало 1970-х</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -63,7 +63,6 @@
             <l n="33"> Расти, расти, цвети, терновник,</l>
             <l n="34"> Еще ты нужен для Христа.</l>
             <lg/>
-            <date>Начало 70-х</date>
         </lg>
     </text>
 </TEI>
