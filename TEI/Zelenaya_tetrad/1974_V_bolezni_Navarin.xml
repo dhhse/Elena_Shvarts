@@ -16,11 +16,10 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>
-                        <!--_ _ _-->
-                        <date type="publishing">1983</date>
+                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.72-73.<date type="publishing"
+                           >2018</date>
                     </publisher>
-                    <date type="written" when="1974"/>
+                    <date type="written" when="1974">1974</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -29,6 +28,7 @@
         <lg type="poem">
             <head>В болезни – Наварин</head>
             <div type="dedication">А.Конечному</div>
+            <lg>
             <l n="1">Флаг андреевский посконной</l>
             <l n="2">Наготой моря томит,</l>
             <l n="3">Из двух жилок знак скрещённый</l>
@@ -69,7 +69,7 @@
             <l n="38">Мгновенье гибельных родин.</l>
             <l n="39">Скажи, скажи скорее, Муза, –</l>
             <l n="40">Зачем ты кажешь Наварин?</l>
-            <date>1974</date>
+            </lg>
         </lg>
     </text>
 </TEI>
