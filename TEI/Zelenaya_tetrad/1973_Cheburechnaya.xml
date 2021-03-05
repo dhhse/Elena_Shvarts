@@ -16,11 +16,13 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>
-                        <!--_ _ _-->
+                   
+                         <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.62-63.<date type="publishing"
+                           >2018</date>
+                    </publisher>
                         <date type="publishing">1983</date>
                     </publisher>
-                    <date type="written" notAfter="1973"/>
+                    <date type="written" when="not_after_1973">не позднее 1973</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -28,6 +30,7 @@
     <text>
         <lg type="poem">
             <head>Чебуречная</head>
+            <lg>
             <l n="1">В захудалой и неприкаянной,</l>
             <l n="2">Но толпится в ней публика вечно,</l>
             <l n="3">В этой грязной окраинной</l>
@@ -77,6 +80,7 @@
             <l n="47">И всхлипнув жалобно и тонко,</l>
             <l n="48">Харчевню грязную прижмет</l>
             <l n="49">К груди, как грязного ребёнка.</l>
+                </lg>
             <date>не позднее февраля 1973</date>
         </lg>
     </text>

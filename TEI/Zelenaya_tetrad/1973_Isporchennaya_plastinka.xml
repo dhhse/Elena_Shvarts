@@ -16,11 +16,13 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>
-                        <!--_ _ _-->
+                
+                         <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.66.<date type="publishing"
+                           >2018</date>
+                    </publisher>
                         <date type="publishing">1983</date>
                     </publisher>
-                    <date type="written" notAfter="1973"/>
+                    <date type="written" when="not_after_1973">не позднее 1973</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -29,6 +31,7 @@
         <lg type="poem">
             <head>Испорченная пластинка</head>
             <div type="dedication">Н. Горбаневской</div>
+            <lg>
             <l n="1">Холодно, холодно. Визг по ночам.</l>
             <l n="2">Дворнику кошка родит.</l>
             <l n="3">Падает снег и течёт по плечам,</l>
@@ -56,6 +59,7 @@
             <l n="26">Эта что-то уныло звучит,</l>
             <l n="27">Эта что-то уныло звучит,</l>
             <l n="28">Эта что-то уны....</l>
+                </lg>
             <date>не позднее февраля 1973</date>
         </lg>
     </text>

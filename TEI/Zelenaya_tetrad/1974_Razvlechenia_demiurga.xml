@@ -16,18 +16,17 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>
-                        <!--_ _ _-->
-                        <date type="publishing">1983</date>
+                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.75-76.<date type="publishing"
+                           >2018</date>
                     </publisher>
-                    <date type="written" when="1974"/>
+                    <date type="written" when="1974"><date>1974</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <lg type="poem">
-            <head>РАЗВЛЕЧЕНИЯ ДЕМИУРГА</head>
+            <head>Развлечения Демиурга</head>
             <lg>1. Филологические развлечения Демиурга</lg>
             <lg type="stanza" n="1">
                 <l n="1"> То скосит он наречий мятных круг –</l>
