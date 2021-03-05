@@ -16,8 +16,11 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <!-- здесь какая-то библиография -->
-                    <date type="written" when="1960">середина 1960-х</date> <!-- тут проблемы с датировкой -->
+                    <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.17.<date type="publishing"
+                           >2018</date>
+                    </publisher>
+                    
+                    <date type="written" when="1960-ies">середина 1960-х</date> <!-- тут проблемы с датировкой -->
                 </bibl>
             </sourceDesc>
         </fileDesc>
