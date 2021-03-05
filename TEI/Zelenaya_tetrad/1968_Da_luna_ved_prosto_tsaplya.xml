@@ -16,7 +16,10 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <!-- здесь какая-то библиография -->
+                   <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.26.<date type="publishing"
+                           >2018</date>
+                    </publisher>
+                    
                     <date type="written" when="1968">8 января 1968</date>
                 </bibl>
             </sourceDesc>
