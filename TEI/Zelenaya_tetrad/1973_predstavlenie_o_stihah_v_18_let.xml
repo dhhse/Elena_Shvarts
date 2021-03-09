@@ -16,17 +16,16 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.67.<date type="publishing"
+                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов. СПб.: Порядок слов. С. 67.<date type="publishing"
                            >2018</date>
                     </publisher>
-                    <date type="written" notAfter="1973"/>
+                    <date type="written" notAfter="1973">Не позднее 1973 года</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <lg type="poem">
-           
             <head>Представление о стихах в 18 лет</head>
             <lg>
             <l n="1">Кто опишет тетю Любу,</l>
@@ -45,8 +44,8 @@
             <l n="14">Лёгкой плотью снащены,</l>
             <l n="15">Чтобы ангелами стали,</l>
             <l n="16">Если ангелы больны.</l>
-<lg>
-            <date>не позднее февраля 1973</date>
+</lg>
+            <date>Не позднее февраля 1973 года</date>
         </lg>
     </text>
 </TEI>

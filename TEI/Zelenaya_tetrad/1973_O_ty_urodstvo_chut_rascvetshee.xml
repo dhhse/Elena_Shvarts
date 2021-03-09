@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>***</title>
+                <title>*** ("О ты – уродство чуть расцветшее!")</title>
                 <author>Елена Шварц, 1948-2010</author>
             </titleStmt>
             <respStmt>
@@ -12,7 +12,7 @@
             </respStmt>
             <respStmt>
                 <resp>Издатели:</resp>
-                <name>Л. Родичева</name>, <name>Е. Сенаторова</name>,<name>Д. Скоринкин</name>,
+                <name>Л. Родичева</name>, <name>Е. Сенаторова</name>, <name>Д. Скоринкин</name>,
                     <name>А. Панасюк</name>
             </respStmt>
             <sourceDesc>
@@ -20,7 +20,7 @@
                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов,
                         СПб.: Порядок слов. С.57. <date type="publishing">2018</date>
                     </publisher>
-                    <date type="written" notAfter="1973-02">не позднее февраля 1973</date>
+                    <date type="written" notAfter="1973-02">Не позднее февраля 1973 года</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -39,7 +39,7 @@
                 <l n="8">И что достойнее – быть певчим иль святым,</l>
                 <l n="9">Или химерою в соборе мирозданья.</l>
             </lg>
-            <date>не позднее февраля 1973</date>
+            <date>Не позднее февраля 1973 года</date>
         </lg>
     </text>
 </TEI>

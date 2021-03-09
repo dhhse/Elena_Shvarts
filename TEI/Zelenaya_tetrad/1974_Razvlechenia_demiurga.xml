@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>РАЗВЛЕЧЕНИЯ ДЕМИУРГА</title>
+                <title>Развлечения Демиурга</title>
                 <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
@@ -16,10 +16,9 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.75-76.<date type="publishing"
-                           >2018</date>
+                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов. СПб.: Порядок слов. С. 75-76.<date type="publishing">2018</date>
                     </publisher>
-                    <date type="written" when="1974"><date>1974</date>
+                    <date type="written" when="1974">1974</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
