@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title> Из "стихов о неврастенике"</title>
+                <title>Из "стихов о неврастенике"</title>
                 <author>Елена Шварц, 1948-2010</author>
             </titleStmt>
             <respStmt>
@@ -12,15 +12,15 @@
             </respStmt>
             <respStmt>
                 <resp>Издатели:</resp>
-                <name>Л. Родичева</name>,<name>Е. Сенаторова</name>,<name>Д. Скоринкин</name>
+                <name>Л. Родичева</name>,<name>Е. Сенаторова</name>, <name>Д. Скоринкин</name>
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.27-29.<date type="publishing"
+                    <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов. СПб.: Порядок слов. С. 27-29.<date type="publishing"
                            >2018</date>
                     </publisher>
                     
-                    <date type="written" when="1960">середина 1960-х</date> <!-- тут проблемы с датировкой -->
+                    <date type="written" when="1968">1968</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -117,7 +117,7 @@
 <l n="76">Так говорит, но даже боком</l>
 <l n="77">Немеркнущее чует око.</l>
 </lg>
-<date>начало 1968</date>
+<date>Начало 1968 года</date>
 </lg>
   </text>
 </TEI>

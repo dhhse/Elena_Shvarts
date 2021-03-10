@@ -20,9 +20,7 @@
                          <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.62-63.<date type="publishing"
                            >2018</date>
                     </publisher>
-                        <date type="publishing">1983</date>
-                    </publisher>
-                    <date type="written" when="not_after_1973">не позднее 1973</date>
+                    <date type="written" when="not_after_1973">Не позднее февраля 1973 года</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -81,7 +79,7 @@
             <l n="48">Харчевню грязную прижмет</l>
             <l n="49">К груди, как грязного ребёнка.</l>
                 </lg>
-            <date>не позднее февраля 1973</date>
+            <date>Не позднее февраля 1973 года</date>
         </lg>
     </text>
 </TEI>

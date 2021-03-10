@@ -16,10 +16,10 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.61.<date type="publishing"
+                    <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов. СПб.: Порядок слов. С. 61.<date type="publishing"
                            >2018</date>
                     </publisher>
-                    <date type="written" notAfter="1973"/>
+                    <date type="written" notAfter="1973">Не позднее февраля 1973 года</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -57,7 +57,7 @@
             <l n="27">Чтоб, озираяся кругом,</l>
             <l n="28">Пила я с      бром? </l>
             </lg>
-            <date>не позднее февраля 1973</date>
+            <date>Не позднее февраля 1973 года</date>
         </lg>
     </text>
 </TEI>

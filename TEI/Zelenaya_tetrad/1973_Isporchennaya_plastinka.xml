@@ -17,12 +17,10 @@
             <sourceDesc>
                 <bibl>
                 
-                         <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.66.<date type="publishing"
+                         <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов. СПб.: Порядок слов. С. 66.<date type="publishing"
                            >2018</date>
                     </publisher>
-                        <date type="publishing">1983</date>
-                    </publisher>
-                    <date type="written" when="not_after_1973">не позднее 1973</date>
+                    <date type="written" when="not_after_1973">Не позднее февраля 1973 года</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -60,7 +58,7 @@
             <l n="27">Эта что-то уныло звучит,</l>
             <l n="28">Эта что-то уны....</l>
                 </lg>
-            <date>не позднее февраля 1973</date>
+            <date>Не позднее февраля 1973 года</date>
         </lg>
     </text>
 </TEI>

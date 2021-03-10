@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Из морских</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -12,21 +12,21 @@
             </respStmt>
             <respStmt>
                 <resp>Издатели:</resp>
-                <name>Л. Родичева</name>,<name>Е. Сенаторова</name>,<name>Д. Скоринкин</name>,
+                <name>Л. Родичева</name>,<name>Е. Сенаторова</name>, <name>Д. Скоринкин</name>,
                     <name>А. Панасюк</name>
             </respStmt>
             <sourceDesc>
                 <bibl>
                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов,
-                        СПб.: Порядок слов, <date type="publishing">2018</date>. C. 53. </publisher>
-                    <date type="written" when="1973">1973</date>
+                        СПб.: Порядок слов. C. 53.<date type="publishing">2018</date> </publisher>
+                    <date type="written" when="1973">Не позднее февраля 1973 года</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
     </teiHeader>
     <text>
         <lg type="cycle">
-            <head>ИЗ МОРСКИХ</head>
+            <head>Из морских</head>
 
             <lg type="poem" n="1">
                 <head>1. ***</head>
@@ -89,7 +89,7 @@
                 </lg>
             </lg>
 
-            <date notAfter="1973">не позднее февраля 1973</date>
+            <date notAfter="1973">Не позднее февраля 1973 года</date>
         </lg>
     </text>
 </TEI>

@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt>
                 <title>Футбол</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -12,13 +12,13 @@
             </respStmt>
             <respStmt>
                 <resp>Издатели:</resp>
-                <name>Л. Родичева</name>, <name>Е. Сенаторова</name>,<name>Д. Скоринкин</name>,
+                <name>Л. Родичева</name>, <name>Е. Сенаторова</name>, <name>Д. Скоринкин</name>,
                     <name>А. Панасюк</name>
             </respStmt>
             <sourceDesc>
                 <bibl>
                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов,
-                        СПб.: Порядок слов. С.42. <date type="publishing">2018</date>
+                        СПб.: Порядок слов. С. 42. <date type="publishing">2018</date>
                     </publisher>
                     <date type="written" when="1972">1972</date>
                 </bibl>

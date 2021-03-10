@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>***</title>
+                <title>*** ("Зевок звучит протяжно...")</title>
                 <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
@@ -16,10 +16,10 @@
             </respStmt>
             <sourceDesc>
                 <bibl> 
-                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.58.<date type="publishing"
+                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов. СПб.: Порядок слов. С. 58.<date type="publishing"
                            >2018</date>
                     </publisher>
-                    <date type="written" notAfter= "1973"/>
+                    <date type="written" notAfter= "1973">Не позднее февраля 1973 года</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -41,7 +41,7 @@
                 <l n="11">Кто у самой войны родились,</l>
                 <l n="12">Как грибы под высоким забором.</l>
             </lg>                 
-            <date>не позднее февраля 1973</date>
+            <date>Не позднее февраля 1973 года</date>
         </lg>
     </text>
 </TEI>

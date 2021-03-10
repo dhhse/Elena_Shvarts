@@ -3,8 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>***</title>
-                <author>Елена Шварц, 1948-2010</author>
+                <title>*** ("Когда бы не было Великого «До свиданья!»")</title>
+                <author>Елена Шварц</author>
             </titleStmt>
             <respStmt>
                 <resp>Редакторы:</resp>
@@ -18,9 +18,9 @@
             <sourceDesc>
                 <bibl>
                     <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов,
-                        СПб.: Порядок слов.С.56. <date type="publishing">2018</date>
+                        СПб.: Порядок слов. С.56. <date type="publishing">2018</date>
                     </publisher>
-                    <date type="written" notAfter="1973-02">не позднее февраля 1973</date>
+                    <date type="written" notAfter="1973-02">Не позднее февраля 1973 года</date>
                 </bibl>
             </sourceDesc>
         </fileDesc>
@@ -42,7 +42,7 @@
                 <l n="11">Как утопающий, что дышит еле-еле,</l>
                 <l n="12">На дно и в вечность тянет, как в постелю.</l>
             </lg>
-            <date>не позднее февраля 1973</date>
+            <date>Не позднее февраля 1973 года</date>
         </lg>
     </text>
 </TEI>

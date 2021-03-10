@@ -3,7 +3,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>***</title>
+                <title>*** ("Должно, больная кровь...")</title>
                 <author>Елена Шварц, 1948-2010</author>
             </titleStmt>
             <respStmt>
@@ -16,10 +16,9 @@
             </respStmt>
             <sourceDesc>
                 <bibl>
-                    <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов.СПб.: Порядок слов.С.22.<date type="publishing"
+                    <publisher>Стихи из «Зеленой тетради». Стихотворения 1966–1974 годов. СПб.: Порядок слов. С. 22.<date type="publishing"
                            >2018</date>
                     </publisher>
-                    
                     <date type="written" when="1967">1967</date>
                 </bibl>
             </sourceDesc>
