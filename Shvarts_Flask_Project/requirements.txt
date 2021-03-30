@@ -69,7 +69,7 @@ prometheus-client==0.7.1
 prompt-toolkit==3.0.5
 protobuf==3.13.0
 ptyprocess==0.6.0
-Pygments==2.6.1
+Pygments==2.7.4
 pymongo==3.11.0
 pymorphy2==0.8
 pymorphy2-dicts==2.4.393442.3710985
